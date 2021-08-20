@@ -1,0 +1,19 @@
+{
+  "name": "javascript-in-depth",
+  "version": "1.0.0",
+  "description": "In depth look into the JavaScript programming language",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalexei/javascript-in-depth.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "kalexei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalexei/javascript-in-depth/issues"
+  },
+  "homepage": "https://github.com/kalexei/javascript-in-depth#readme"
+}
